@@ -29,3 +29,23 @@ Nama panggilan / akun GitHub: dedyp4078
 ## Status
 
 Proyek awal perkuliahan.
+
+## Tujuan
+
+Proyek ini bertujuan untuk mempelajari pengembangan aplikasi mobile menggunakan Flutter serta penggunaan Git dan GitHub dalam mengelola proyek.
+
+## Rencana Fitur
+
+1. Halaman utama aplikasi.
+2. Fitur pengelolaan data pengguna.
+3. Fitur utama sesuai kebutuhan aplikasi.
+
+## Cara Menjalankan
+
+Pastikan Flutter sudah terpasang dan sudah dikonfigurasi dengan baik.
+
+Jalankan perintah berikut:
+
+```bash
+flutter pub get
+flutter run
